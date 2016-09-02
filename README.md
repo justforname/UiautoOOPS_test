@@ -1,1 +1,1 @@
-This poject about Uiautomator framework create，Write non-standard, only as a reference
+This poject about Uiautomator test framework create.
